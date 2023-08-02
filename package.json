@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "discord.js": "^14.12.1"
+  },
+  "name": "empybot",
+  "version": "1.0.0",
+  "description": "for Emporium",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Xekvern",
+  "license": "ISC"
+}
