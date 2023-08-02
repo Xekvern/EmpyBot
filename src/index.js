@@ -17,4 +17,3 @@ const commandFolders = fs.readdirSync("./src/Commands");
     client.handleCommands(commandFolders, "./src/Commands");
     client.login(client.config.bot.token)
 })();
-
